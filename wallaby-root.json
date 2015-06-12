@@ -1,0 +1,9 @@
+{
+  "files": [
+    "WallabyTrial/Scripts/calc.js"
+  ],
+  "tests": [
+    "WallabyTrial.Tests/Scripts/calc.spec.js"
+  ],
+  "testFramework": "jasmine@2.1.3"
+}
